@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_components_socials",
+  "info": {
+    "displayName": "Social",
+    "icon": "wheelchair",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "icon": {
+      "type": "enumeration",
+      "enum": [
+        "VK_ICON",
+        "TG_ICON",
+        "GITHUB_ICON"
+      ]
+    },
+    "url": {
+      "type": "string"
+    },
+    "label": {
+      "type": "string"
+    }
+  }
+}

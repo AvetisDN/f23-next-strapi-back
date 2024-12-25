@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_components_logos",
+  "info": {
+    "displayName": "Logo",
+    "icon": "emotionHappy",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string"
+    }
+  }
+}
